@@ -7,7 +7,7 @@
  - ?????
     </title>
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-              <link media="all" type="text/css" rel="stylesheet" href="http://moshaver.com/amlak/assets/stylesheets/frontend/common.css?v=1463477251">
+              <link media="all" type="text/css" rel="stylesheet" href="http://rasa7aj.ogig.ir/amlak/assets/stylesheets/frontend/common.css?v=1463477251">
 
       </head>
   <body>
@@ -16,7 +16,7 @@
           <div class="modal-body telegram-login-modal-content">
               <div class="row">
                   <div class="col-sm-4 col-sm-offset-4 col-xs-6 col-xs-offset-3">
-                      <img src="http://moshaver.com/amlak/assets/images/logo@2x.png" class="img-responsive" style="margin:auto" alt="?????">
+                      <img src="http://rasa7aj.ogig.ir/amlak/assets/images/logo@2x.png" class="img-responsive" style="margin:auto" alt="?????">
                   </div>
               </div>
               <div class="row">
@@ -29,7 +29,7 @@
                                                     ???? ??? ?? ???? ?? ?????? ??? ??? ????? ??? ????? ? ???? ???? ?? ?? ??????? ???? ???? ????? ????? ??? ???? ??? ???? ???? ? ?? ??? ????? ????.
                                                 </p>
                       <div class="text-center">
-                        <a class="btn btn-primary btn-lg telegram-auth-btn" target="_blank" rel="nofollow" href="http://moshaver.com/amlak/loginWithTelegram">???? ?? ??????</a>
+                        <a class="btn btn-primary btn-lg telegram-auth-btn" target="_blank" rel="nofollow" href="http://rasa7aj.ogig.ir/amlak/loginWithTelegram">???? ?? ??????</a>
                       </div>
                       <br/>
                       <div class="text-center">
@@ -50,7 +50,7 @@
               <div class="modal-body">
                   <div class="tweet-box">
                       <div class="avatar-container">
-                          <img src="http://moshaver.com/amlak/images/user-nophoto.gif" class="avatar">
+                          <img src="http://rasa7aj.ogig.ir/amlak/images/user-nophoto.gif" class="avatar">
                       </div>
                       <form class="tweet-form" data-condensed-text="?? ????? ??? ?? ????">
                           <div class="tweet-content">
@@ -80,7 +80,7 @@
               </div>
               <div class="modal-body">
                   <div class="warning-message alert alert-warning hide"></div>
-                    <form method="POST" action="http://moshaver.com/amlak/properties_charge_balance_post" accept-charset="UTF-8"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
+                    <form method="POST" action="http://rasa7aj.ogig.ir/amlak/properties_charge_balance_post" accept-charset="UTF-8"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
                         <input name="property_id" type="hidden">
                         <input name="ref" type="hidden">
                         <div class="radio">
@@ -129,7 +129,7 @@
                       <div class="error-message alert alert-danger alert-dismissible fade in hide" role="alert" style="padding: 8px;border-right-width: 8px;">
                           <div class="content"></div>
                       </div>
-                      <form method="POST" action="http://moshaver.com/amlak/login" accept-charset="UTF-8"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
+                      <form method="POST" action="http://rasa7aj.ogig.ir/amlak/login" accept-charset="UTF-8"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
                       <input name="ref" type="hidden">
                       <div class="form-group">
                           <label for="username">????? ???? ???? ?? ??? ?????????</label>
@@ -144,7 +144,7 @@
                               <input type="checkbox" checked="checked" id="remember_me" name="remember_me"> ??? ?? ???? ?????
                           </label>
                       </div>
-                      <p><a href="http://moshaver.com/amlak/forgot-password/forgot-password" target="_blank">???? ???? ??? ?? ?????? ???????</a></p>
+                      <p><a href="http://rasa7aj.ogig.ir/amlak/forgot-password/forgot-password" target="_blank">???? ???? ??? ?? ?????? ???????</a></p>
                       <div class="clearfix">
                           <input class="btn btn-success btn-block pull-left" type="submit" value="????">
                       </div>
@@ -167,7 +167,7 @@
                   <div id="property_guest_payment">
                       <p class="text-center"><span>????? ?????? ??????? ????</span> <span class="property-title"></span> <span class="price yekan-numbers text-success" style="font-size: 20px; font-weight: bold"></span> <span>?????</span> ???</p>
                       <p class="text-center text-danger">??? ?? ?????? ??? ??????? ???? ??? ??? ???????? ?? ??? ???? ???? ????? ??.</p>
-                      <form method="POST" action="http://moshaver.com/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86" accept-charset="UTF-8" id="property_guest_payment_form"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
+                      <form method="POST" action="http://rasa7aj.ogig.ir/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86" accept-charset="UTF-8" id="property_guest_payment_form"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
                       <input name="source" type="hidden">
                       <input name="ref" type="hidden">
                       <input name="property_id" type="hidden">
@@ -215,8 +215,8 @@
                               </ul>
                           </div>
                           <div class="col-sm-6" style="padding-top: 18px">
-                              <form method="POST" action="http://moshaver.com/amlak/register" accept-charset="UTF-8" id="ajax-register-form"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
-                              <input name="ref" type="hidden" value="http://moshaver.com/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86">
+                              <form method="POST" action="http://rasa7aj.ogig.ir/amlak/register" accept-charset="UTF-8" id="ajax-register-form"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
+                              <input name="ref" type="hidden" value="http://rasa7aj.ogig.ir/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86">
                               <div class="form-group">
                                   <label for="name">???</label>
                                   <span class="required">*</span>
@@ -272,8 +272,8 @@
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                   <h4 class="modal-title">??? ??? ?? ?? ?? ??????</h4>
               </div>
-              <form method="POST" action="http://moshaver.com/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86" accept-charset="UTF-8" id="feedback-form" style="position:relative;"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
-                    <input name="path" type="hidden" value="http://moshaver.com/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86">
+              <form method="POST" action="http://rasa7aj.ogig.ir/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86" accept-charset="UTF-8" id="feedback-form" style="position:relative;"><input name="_token" type="hidden" value="F8LKmrWRM5RYs89Pt2YxwKRiqCG5u6ewiBQgPnKC">
+                    <input name="path" type="hidden" value="http://rasa7aj.ogig.ir/amlak/sitemap/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86">
                     <input name="url_query" type="hidden" value="">
                     <div class="overlay hide" style="position: absolute;width: 100%;height: 100%;background-color: rgba(255,255,255,0.5);z-index: 1;"></div>
                     <div class="modal-body">
@@ -307,39 +307,39 @@
       </div><!-- /.modal-dialog -->
   </div><!-- /.modal -->
     <div id="wrapper" class="main-wrapper mobile  login-with-telegram-option ">
-                <header class="navbar-default" id="moshaver-navbar">
+                <header class="navbar-default" id="robosaz_xtbot-navbar">
                         <div id="login-with-telegtam-container" style="text-align: center;border-bottom: 1px solid #ddd;padding: 5px;background-color: #f5f5f5;" class="visible-xs" >
-                <span>???? ???? ???? ???? ??????????</span> <a class="btn btn-primary telegram-auth-btn" href="http://moshaver.com/amlak/loginWithTelegram" rel="nofollow" target="_blank">?? ?????? ???? ????</a>
+                <span>???? ???? ???? ???? ??????????</span> <a class="btn btn-primary telegram-auth-btn" href="http://rasa7aj.ogig.ir/amlak/loginWithTelegram" rel="nofollow" target="_blank">?? ?????? ???? ????</a>
             </div>
                         <div class="container">
                 <div class="navbar-header">
-                    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".moshaver-navbar-collapse">
+                    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".robosaz_xtbot-navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
                 </div>
-                    <a href="http://moshaver.com/amlak" title="????? ???????? ? ???? ? ???? ????? ???? ?????" class="logo"></a>
-                <nav class="collapse navbar-collapse moshaver-navbar-collapse">
+                    <a href="http://rasa7aj.ogig.ir/amlak" title="????? ???????? ? ???? ? ???? ????? ???? ?????" class="logo"></a>
+                <nav class="collapse navbar-collapse robosaz_xtbot-navbar-collapse">
                                             <a href="#" id="feedback-modal-btn" class="visible-lg" style="position: absolute;right: 50%;margin-right: -105px;padding: 15px 0;">????? ???? ????? ??????</a>
                                         <ul class="nav navbar-nav">
                         <li>
-                            <a title='???? ????? ???? ?????? ???????? ?????' href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4">???? ? ????</a>
+                            <a title='???? ????? ???? ?????? ???????? ?????' href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4">???? ? ????</a>
                         </li>
                         <li>
-                            <a title='????? ????????? ????? ????? ????? ????' href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87">??? ? ?????</a>
+                            <a title='????? ????????? ????? ????? ????? ????' href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87">??? ? ?????</a>
                         </li>
                                             </ul>
                     <div class="navbar-form navbar-left">
-                        <a title="????? ???? ???? ????? ???? ?????? ???" href="http://moshaver.com/amlak/property/quick-add" class="btn btn-success"><i class="fa fa-plus"></i>????? ?????? ???</a>
+                        <a title="????? ???? ???? ????? ???? ?????? ???" href="http://rasa7aj.ogig.ir/amlak/property/quick-add" class="btn btn-success"><i class="fa fa-plus"></i>????? ?????? ???</a>
                     </div>
                                         <ul class="nav navbar-nav navbar-left">
                                                 <li>
-                            <a href="http://moshaver.com/amlak/login" class="color-link"><i class="fa fa-lock"></i> <span>???? ????</span></a>
+                            <a href="http://rasa7aj.ogig.ir/amlak/login" class="color-link"><i class="fa fa-lock"></i> <span>???? ????</span></a>
                         </li>
                         <li>
-                            <a href="http://moshaver.com/amlak/register" class="color-link"><i class="fa fa-user"></i> <span>??? ??? ????</span></a>
+                            <a href="http://rasa7aj.ogig.ir/amlak/register" class="color-link"><i class="fa fa-user"></i> <span>??? ??? ????</span></a>
                         </li>
                                             </ul>
                 </nav>
@@ -352,12 +352,12 @@
         <div class="content">
             <h1 class="page-header" style="margin-top: 0;">??? ????????</h1>
             <ul>
-                <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>?????</span> <span>????????</span></a></li>
-                <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>????? ????????</span> <span>????????</span></a></li>
-                <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>???? ????????</span> <span>????????</span></a></li>
-                <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>???? ????</span> <span>????????</span></a></li>
-                <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>??? ? ????? ????????</span> <span>????????</span></a></li>
-                <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>????? ???</span> <span>????????</span></a></li>
+                <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>?????</span> <span>????????</span></a></li>
+                <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>????? ????????</span> <span>????????</span></a></li>
+                <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>???? ????????</span> <span>????????</span></a></li>
+                <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>???? ????</span> <span>????????</span></a></li>
+                <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>??? ? ????? ????????</span> <span>????????</span></a></li>
+                <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AF%D9%88%D8%B2%D8%AF%D9%88%D8%B2%D8%A7%D9%86?page=1"><span>????? ???</span> <span>????????</span></a></li>
             </ul>
             <hr/>
                         
@@ -373,145 +373,145 @@
                                                                     <div class="col-sm-3 sub-footer-items">
                                         <h5 class="sub-footer-header">???? ???</h5>
                                         <ul class="sub-footer-list">
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">????? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">????? ??</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">????? ???????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">????? ???</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">????? ????????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">????? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">????? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">????? ??</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">????? ???????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">????? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">????? ????????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D9%87%D9%85%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">????? ???</a></li>
                                                                                     </ul>
                                     </div>
                                                                     <div class="col-sm-3 sub-footer-items">
                                         <h5 class="sub-footer-header">???? ????????</h5>
                                         <ul class="sub-footer-list">
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">????? ???????? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">????? ???????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">????? ???????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">????? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">????? ???????? ??</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">????? ???????? ???????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">????? ???????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">????? ???????? ???</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">????? ???????? ????????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">????? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">????? ???????? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">????? ???????? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">????? ???????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">????? ???????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">????? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">????? ???????? ??</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">????? ???????? ???????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">????? ???????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">????? ???????? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">????? ???????? ????????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">????? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">????? ???????? ???</a></li>
                                                                                     </ul>
                                     </div>
                                                                     <div class="col-sm-3 sub-footer-items">
                                         <h5 class="sub-footer-header">????? ????????</h5>
                                         <ul class="sub-footer-list">
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">???? ???? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">???? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">???? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">???? ???? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">???? ???? ??</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">???? ???? ???????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">???? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">???? ???? ???</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">???? ???? ????????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">???? ???? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">???? ???? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">???? ???? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">???? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">???? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">???? ???? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">???? ???? ??</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">???? ???? ???????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">???? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">???? ???? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">???? ???? ????????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">???? ???? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%AE%D8%A7%D9%86%D9%87/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">???? ???? ???</a></li>
                                                                                     </ul>
                                     </div>
                                                                     <div class="col-sm-3 sub-footer-items">
                                         <h5 class="sub-footer-header">???? ????</h5>
                                         <ul class="sub-footer-list">
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">???? ???????? ???? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">???? ???????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">???? ???????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">???? ???????? ??????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">???? ???????? ??</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">???? ???????? ???????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">???? ???????? ????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">???? ???????? ???</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">???? ???????? ????????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">???? ???????? ?????</a></li>
-                                                                                            <li><a href="http://moshaver.com/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">???? ???????? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%D9%87%D9%88%D8%A7%D8%B2?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3?page=1">???? ???????? ???? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D8%B1%DB%8C?page=1">???? ???????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%88%D9%87?page=1">???? ???????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF?page=1">???? ???????? ??????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%82%D9%85?page=1">???? ???????? ??</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86?page=1">???? ???????? ???????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF?page=1">???? ???????? ????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC?page=1">???? ???????? ???</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87?page=1">???? ???????? ????????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%B4%D9%87%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%A7%D8%B3%D9%88%D8%AC?page=1">???? ???????? ?????</a></li>
+                                                                                            <li><a href="http://rasa7aj.ogig.ir/amlak/%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/%D8%B4%D9%87%D8%B1-%DB%8C%D8%B2%D8%AF?page=1">???? ???????? ???</a></li>
                                                                                     </ul>
                                     </div>
                                                             </div>
@@ -521,21 +521,21 @@
             <div class="main-footer">
                 <div class="row">
                     <ul class="main-footer-ul">
-                        <li><a href="http://moshaver.com/amlak/about-us" rel="nofollow">?????? ??</a></li>
-                        <li><a href="http://moshaver.com/amlak/contact-us" rel="nofollow">???? ?? ??</a></li>
-                        <li><a href="http://moshaver.com/amlak/jobs" rel="nofollow">???????</a></li>
-                        <li><a href="http://moshaver.com/amlak/faq" rel="nofollow">?????? ??????</a></li>
-                        <li><a href="http://moshaver.com/amlak/ekhtesasi" >???? ???? ??????? ?????</a></li>
-                        <li><a href="http://moshaver.com/amlak/ads" rel="nofollow">???????</a></li>
-                        <li><a href="http://moshaver.com/amlak/terms-and-conditions" rel="nofollow">?????? ? ??????</a></li>
-                        <li><a href="http://moshaver.com/amlak/complaints" rel="nofollow">??????</a></li>
-                        <li><a href="http://moshaver.com/amlak/sitemap">???? ????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/about-us" rel="nofollow">?????? ??</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/contact-us" rel="nofollow">???? ?? ??</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/jobs" rel="nofollow">???????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/faq" rel="nofollow">?????? ??????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/ekhtesasi" >???? ???? ??????? ?????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/ads" rel="nofollow">???????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/terms-and-conditions" rel="nofollow">?????? ? ??????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/complaints" rel="nofollow">??????</a></li>
+                        <li><a href="http://rasa7aj.ogig.ir/amlak/sitemap">???? ????</a></li>
                     </ul>
                 </div>
                 <div class="row">
                     <ul class="main-footer-ul">
                         <li>
-                            <img src="http://moshaver.com/amlak/images/bpm.png" style="max-width: 120px" alt="???? ?? ?????? ???">
+                            <img src="http://rasa7aj.ogig.ir/amlak/images/bpm.png" style="max-width: 120px" alt="???? ?? ?????? ???">
                         </li>
                         <li>
                                                     </li>
@@ -548,7 +548,7 @@
             </div>
         </footer>
     </div>
-            <script src="http://moshaver.com/amlak/assets/javascript/frontend/common.js?v=1467722947"></script>
+            <script src="http://rasa7aj.ogig.ir/amlak/assets/javascript/frontend/common.js?v=1467722947"></script>
 
                 <script>
             toastr.options.positionClass = 'toast-top-left';
@@ -598,7 +598,7 @@
           /*$('#telegram-auth-modal').on('show.bs.modal', function(e){
               var interval = setInterval(function(){
                   $.ajax({
-                      url: "http://moshaver.com/amlak/telegram/auth"
+                      url: "http://rasa7aj.ogig.ir/amlak/telegram/auth"
                   }).success(function(){
                       location.reload();
                       clearInterval(interval);
@@ -610,7 +610,7 @@
           var showTelegramAuthModal = function() {
               $('#telegram-auth-modal').modal();
               /*$.ajax({
-                  url: "http://moshaver.com/amlak/log_telegram_login_modal_display_count"
+                  url: "http://rasa7aj.ogig.ir/amlak/log_telegram_login_modal_display_count"
               });*/
 
               logTelegramAuthModalClicky();
@@ -653,7 +653,7 @@
               if(!telegram_auth_check) {
                   var interval = setInterval(function () {
                       $.ajax({
-                          url: "http://moshaver.com/amlak/telegram/auth"
+                          url: "http://rasa7aj.ogig.ir/amlak/telegram/auth"
                       }).success(function () {
                           location.reload();
                           clearInterval(interval);
@@ -671,20 +671,20 @@
               //$('.telegram-auth-btn').attr('disabled', 'disabled');
               //$('.telegram-auth-btn').html('???? ??? ???? ...');
               /*$.ajax({
-                  url: " http://moshaver.com/amlak/getTelegramAuthCode",
+                  url: " http://rasa7aj.ogig.ir/amlak/getTelegramAuthCode",
                   data: {
                       'return_url': window.location.href
                   },
                   method: 'post'
               }).success(function(response){
-                  $('.telegram-auth-btn').attr('href', 'http://telegram.me/moshaverbot?start=' + response.telegram_auth_code);
+                  $('.telegram-auth-btn').attr('href', 'http://telegram.me/robosaz_xtbotbot?start=' + response.telegram_auth_code);
                   $('.telegram-auth-btn').unbind('click');
                   $('.telegram-auth-btn').trigger('click');
 
                   if(!telegram_auth_check) {
                       var interval = setInterval(function () {
                           $.ajax({
-                              url: "http://moshaver.com/amlak/telegram/auth"
+                              url: "http://rasa7aj.ogig.ir/amlak/telegram/auth"
                           }).success(function () {
                               location.reload();
                               clearInterval(interval);
@@ -700,11 +700,11 @@
               });*/
           });
                     if(MobileEsp.isMobilePhone /*Modernizr.mq('(max-width: 768px)')*/) {
-              $('#moshaver-navbar').removeClass('navbar-fixed-top');
+              $('#robosaz_xtbot-navbar').removeClass('navbar-fixed-top');
               $('#wrapper').addClass('mobile')
               $('#login-with-telegtam-container').removeClass('hide');
           } else {
-              $('#moshaver-navbar').addClass('navbar-fixed-top');
+              $('#robosaz_xtbot-navbar').addClass('navbar-fixed-top');
               $('#wrapper').removeClass('mobile');
               $('#login-with-telegtam-container').removeClass('visible-xs').addClass('hide');
           }
@@ -726,10 +726,10 @@
 
           var myEfficientFn = debounce(function() {
               if(MobileEsp.isMobilePhone /*Modernizr.mq('(max-width: 768px)')*/) {
-                  $('#moshaver-navbar').removeClass('navbar-fixed-top');
+                  $('#robosaz_xtbot-navbar').removeClass('navbar-fixed-top');
                   $('#wrapper').addClass('mobile')
               } else {
-                  $('#moshaver-navbar').addClass('navbar-fixed-top');
+                  $('#robosaz_xtbot-navbar').addClass('navbar-fixed-top');
                   $('#wrapper').removeClass('mobile')
               }
           }, 50);
@@ -739,11 +739,11 @@
         <script>
         </script>
                   <script type="text/javascript">
-          _atrk_opts = { atrk_acct:"xtzZm1aMp4Z3mh", domain:"moshaver.com",dynamic: true};
+          _atrk_opts = { atrk_acct:"xtzZm1aMp4Z3mh", domain:"rasa7aj.ogig.ir",dynamic: true};
           (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
       </script>
       <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=xtzZm1aMp4Z3mh" style="display:none" height="1" width="1" alt="" /></noscript>
-    <a  href="http://moshaver.com/amlak/property/quick-add" class="kc_fab_main_btn visible-xs"><img src="http://moshaver.com/amlak/images/fab.png" style="width: 60px" /></a>
+    <a  href="http://rasa7aj.ogig.ir/amlak/property/quick-add" class="kc_fab_main_btn visible-xs"><img src="http://rasa7aj.ogig.ir/amlak/images/fab.png" style="width: 60px" /></a>
   <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"539c0ccdaa","applicationID":"27761389","transactionName":"NVJaYxFXXEpSWkEIWAwYeVQXX11XHFpcFU49RFFDBltTSQ==","queueTime":0,"applicationTime":61,"atts":"GRVZFVlNT0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
 
