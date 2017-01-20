@@ -3,26 +3,26 @@ local function callback_reply(extra, success, result)
 	userrank = "Member"
 	if is_vip(msg) then
 		userrank = "VIP ⭐⭐⭐⭐"
-		send_document(org_chat_id,"./icons/7.webp", ok_cb, false)
+		send_document(msg_chat_id,"./icons/7.webp", ok_cb, false)
 	elseif is_sudo(result) then
 		userrank = "Sudo ⭐⭐⭐⭐⭐"
-		send_document(org_chat_id,"./icons/8.webp", ok_cb, false)
+		send_document(msg_chat_id,"./icons/8.webp", ok_cb, false)
 	elseif is_admin(result) then
 		userrank = "Admin ⭐⭐⭐"
-		send_document(org_chat_id,"./icons/3.webp", ok_cb, false)
+		send_document(msg_chat_id,"./icons/3.webp", ok_cb, false)
 	elseif tonumber(result.from.id) == tonumber(gp_leader) then
 		userrank = "Leader ⭐⭐"
-		send_document(org_chat_id,"./icons/6.webp", ok_cb, false)
+		send_document(msg_chat_id,"./icons/6.webp", ok_cb, false)
 	elseif is_momod(result) then
 		userrank = "Moderator ⭐"
-		send_document(org_chat_id,"./icons/4.webp", ok_cb, false)
+		send_document(msg_chat_id,"./icons/4.webp", ok_cb, false)
 	elseif tonumber(result.from.id) == tonumber(our_id) then
 		userrank = "Umbrella ⭐⭐⭐⭐⭐⭐"
-		send_document(org_chat_id,"./icons/9.webp", ok_cb, false)
+		send_document(msg_chat_id,"./icons/9.webp", ok_cb, false)
 	elseif result.from.username then
 		if string.sub(result.from.username:lower(), -3) == "bot" then
 			userrank = "API Bot"
-			send_document(org_chat_id,"./icons/5.webp", ok_cb, false)
+			send_document(msg_chat_id,"./icons/5.webp", ok_cb, false)
 		end
 	end
 	--custom rank ------------------------------------------------------------------------------------------------
