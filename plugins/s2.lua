@@ -4,7 +4,7 @@ local function run(msg, matches)
                
        end
      end
-    return send_document(org_chat_id,"./bot/icons/sudo.webp", ok_cb, false))
+    return send_document(org_chat_id,"./icons/sudo.webp", ok_cb, false))
 end
 return {         
     patterns = {
