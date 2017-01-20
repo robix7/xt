@@ -1,11 +1,17 @@
 local function run(msg, matches)
-     if matches[1] == 'ربات' and is_sudo(msg) then   
-          end
-     return "بله"
-  end
+     if matches[1] == 'بات' then
+                 
+               
+       end
+     end
+     
+   if is_sudo(msg) then
+     send_document(get_receiver(msg), "./data/tmp/sudo.webp", ok_cb, false)
+end
+end
 return {         
     patterns = {
-    "^(ربات)$"
+    "^(بات)$"
   },
   run = run
 }
