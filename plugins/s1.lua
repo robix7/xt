@@ -1,5 +1,5 @@
 local function run(msg, matches)
-  if matches[1] == "saz" then
+  if matches[1] == "مشخصات" then
     local file = matches[2]
     if is_sudo(msg) then --sudo only !
       local receiver = get_receiver(msg)
@@ -12,7 +12,7 @@ end
 
 return {
   patterns = {
-  "^[!/](saz) (.*)$"
+  "^(مشخصات) (.*)$"
   },
   run = run
 }
