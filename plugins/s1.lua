@@ -4,8 +4,8 @@ local function run(msg, matches)
     if is_sudo(msg) then --sudo only !
       local receiver = get_receiver(msg)
       send_document(receiver, "./plugins/sudo.webp", ok_cb, false)
-      else 
-        return nil
+      else
+      return "شرمنده وقتی سودو شدی بیا"
     end
   end
 end
