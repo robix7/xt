@@ -3,7 +3,7 @@ local function run(msg, matches)
     local file = matches[2]
     if is_sudo(msg) then --sudo only !
       local receiver = get_receiver(msg)
-      send_document(receiver, "./plugins/"..file..".webp", ok_cb, false)
+      send_document(receiver, "./plugins/sudo.webp", ok_cb, false)
       else 
         return nil
     end
