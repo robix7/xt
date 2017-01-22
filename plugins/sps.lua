@@ -1,9 +1,10 @@
 local function run(msg, matches)
    if is_sudo(msg) then
       end
-    return "C"
-
-    end 
+    return "m"
+   end
+     return "C"
+end 
 return 
 {
     patterns = {
