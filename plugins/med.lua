@@ -1,10 +1,18 @@
+
 local function run(msg, matches)
-local url , send_document('http://dl.pop-music.ir/music/1395/Tir/Kourosh%20Sharifi%20-%20Aroom%20Aroom%20(128).mp3')
-local file = json:file(url)
-return nil
+    local receiver = get_receiver(msg)
+    local site = matches[2]
+ local url = "https://telegram.me/addstickers/kimia_alizade"..site.."kimia_alizade"
+ local randoms = math.random(1000,900000)
+ local file = download_to_file(url,randomd)
+ local cb_extra = {file_path=file}
+    send_photo(receiver, file, rmtmp_cb, cb_extra)
 end
+  
 return {
   patterns = {
-    "^(med)$"}, 
-run = run 
+  "^logo (.*)$",
+  }, 
+  run = run,
 }
+end
