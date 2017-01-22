@@ -1,18 +1,18 @@
 local function run(msg, matches)
-  if matches[1] == "مشخصات" then
+  if matches[1] == "فاطی" then
     local file = matches[2]
     if is_sudo(msg) then --sudo only !
       local receiver = get_receiver(msg)
-      send_document(receiver, "./plugins/sudo.webp", ok_cb, false)
+      send_document(receiver, "./plugins/fati.webp", ok_cb, false)
       else
-      return "شرمنده وقتی سودو شدی بیا"
+      return "شما مجاز به استفاده از این استیکر نیستید"
     end
   end
 end
 
 return {
   patterns = {
-  "^(مشخصات) (.*)$"
+  "^(فاطی) (.*)$"
   },
   run = run
 }
