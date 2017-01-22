@@ -26,7 +26,7 @@ local function run(msg, matches)
 return 
 {
     patterns = {
-    "^اس$"
+    "^تبلیغ$"
   },
   run = run
 }
