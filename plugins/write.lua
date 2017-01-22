@@ -109,15 +109,12 @@ local function run(msg, matches)
 "Â,ß,Ĉ,Ð,Є,Ŧ,Ǥ,Ħ,Ī,ʖ,Қ,Ŀ,♏,И,Ø,P,Ҩ,R,$,ƚ,Ц,V,Щ,X,￥,Ẕ,Â,ß,Ĉ,Ð,Є,Ŧ,Ǥ,Ħ,Ī,ʖ,Қ,Ŀ,♏,И,Ø,P,Ҩ,R,$,ƚ,Ц,V,Щ,X,￥,Ẕ,0,9,8,7,6,5,4,3,2,1,.,_",
 	}
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	local texta = { "XtBot",}	
-		local result = {}
+	local result = {}
 	i=0
 	for k=1,#fonts do
-		i=i+1			
-                local tar_font = fonts[i]:split(",")
+		i=i+1
+		local tar_font = fonts[i]:split(",")
 		local text = matches[2]
-		
-		local texta = text:gsub("A",tar_font[00])
 		local text = text:gsub("A",tar_font[1])
 		local text = text:gsub("B",tar_font[2])
 		local text = text:gsub("C",tar_font[3])
@@ -197,8 +194,8 @@ return {
 	usagehtm = '<tr><td align="center">write متن</td><td align="right">با استفاده از این پلاگین میتوانید متون خود را با فونت های متنوع و زیبایی طراحی کنید. حد اکثر کاراکتر های مجاز 20 عدد میباشد و فقط میتوانید از حروف انگلیسی و اعداد استفاده کنید</td></tr>',
 	usage = {"writer [text] : زیبا نویسی",},
 	patterns = {
-		"^([Yy]az) (.*)",
-		"^([Yy]az)$",
+		"^([Ee]sme) (.*)",
+		"^([Ee]sme)$",
 		},
 	run = run
 }
