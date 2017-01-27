@@ -1,7 +1,8 @@
 local function run(msg, matches)
   if not is_sudo(msg) then -- For Sudoers only !
-    return 'از سیستم پیام رسانی فقط سازنده میتونه استفاده کنه'
-  end
+    return [[از سیستم پیام رسانی فقط سازنده میتونه استفاده کنه]]		
+
+	end
 	if matches[1] == 'sms' and is_sudo(msg) then
 		local response = matches[3]
 		
