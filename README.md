@@ -336,3 +336,67 @@ Other interesting sites
 Contact us
 ------------
 You can contact us in groups said before but if you have an issue please [open](https://github.com/Josepdal/DBTeam/issues) one.
+# Lua Version Manager - luaver
+
+[![Build Status](https://travis-ci.org/DhavalKapil/luaver.svg?branch=master)](https://travis-ci.org/DhavalKapil/luaver) [![Join the chat at https://gitter.im/DhavalKapil/luaver](https://badges.gitter.im/DhavalKapil/luaver.svg)](https://gitter.im/DhavalKapil/luaver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE.md)
+
+**luaver** helps to manage and switch between different versions of Lua, LuaJIT and Luarocks.
+
+## Features
+
+1. Installs/Uninstalls any version of Lua, LuaJIT or luarocks with a single command.
+2. Switches between different versions of 'Lua', 'LuaJIT' or 'Luarocks' easily, without glitches.
+3. Consistency between 'Lua' and 'Luarocks' maintained - Rocks and configurations for different lua versions are stored differently.
+4. Every terminal session can have a different environment configured. Default versions can also be configured.
+
+![gif animation showing usage of luaver](http://i.imgur.com/dCCvNfR.gif)
+
+## Requirements
+
+Requires `make`, either of `wget` or `curl`.
+
+You may need to install some dependencies:
+
+```sh
+sudo apt-get install libreadline-dev 
+```
+
+Also, if you are planning to install older versions of Lua(which are 32-bit) on 64-bit machines, you may need to install some 32-bit libraries: 
+
+```sh
+sudo apt-get install lib32ncurses5-dev
+```
+
+## Installation
+
+### Install script
+
+You can install from the script directly:
+
+```sh
+curl https://raw.githubusercontent.com/dhavalkapil/luaver/v1.0.0/install.sh -o install.sh && . ./install.sh
+```
+
+_Note: It will overwrite any `install.sh` in your current directory. Also, this file is no longer needed after the installation is complete._
+
+### Install using `git`
+
+1. Clone this repository into `~/.luaver`:
+
+    ```sh
+    $ git clone https://github.com/DhavalKapil/luaver.git ~/.luaver
+    ```
+
+2. Add `. ~/.luaver/luaver` to your `.bashrc` or equivalent:
+
+    ```sh
+    $ echo ". ~/.luaver/luaver" >> ~/.bashrc
+    ```
+
+3. Reload `.bashrc` or restart the shell to load `luaver`:
+
+   ```sh
+   $ . ~/.bashrc
+   ```
+
+### Update using `git`
